@@ -1,0 +1,17 @@
+Welcome to MultiLingua Knowledge Base.
+
+MultiLingua is a project designed to help users translate and query information across multiple languages using AI-powered language models.
+
+Key Features:
+- Language Detection and Translation using Google Translate API.
+- Question Answering over custom documents using Retrieval-Augmented Generation (RAG).
+- Support for multi-language queries and answers.
+
+The project uses LangChain, OpenAI models like GPT-3.5/4, and vector databases for semantic search.
+
+Example Use Cases:
+1. Translate a question from Spanish and retrieve the correct English answer.
+2. Answer a French query about a company policy based on internal documents.
+3. Provide multilingual support for customer service agents.
+
+This system bridges the gap between languages for enterprise knowledge bases.
